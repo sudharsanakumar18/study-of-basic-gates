@@ -87,7 +87,7 @@ endmodule
 ## RTL realization Output:
 ![image](https://github.com/sudharsanakumar18/study-of-basic-gates/assets/138849110/337a5f95-0186-458b-ac0b-083e92fc81a6)
 
-## RTL:
+## RTL - Timing diagram:
 ![image](https://github.com/sudharsanakumar18/study-of-basic-gates/assets/138849110/594b435f-dd84-4fdc-9911-dfb05a994c47)
 
 ## Result:
